@@ -1,6 +1,12 @@
 # peter-evans/close-issue
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/peter-evans/close-issue](https://github.com/peter-evans/close-issue).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v3.0.2 | [`v3.0.2`](https://github.com/chainguard-actions/close-issue/tree/v3.0.2) | — |
 
 ## Privacy
 
