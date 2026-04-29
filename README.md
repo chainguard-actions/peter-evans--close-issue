@@ -1,5 +1,7 @@
 # peter-evans/close-issue
 
+A GitHub action to close an issue
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/peter-evans/close-issue](https://github.com/peter-evans/close-issue).
 
 ## Versions
