@@ -1,4 +1,6 @@
 {
-  "upstream": "peter-evans/close-issue",
-  "version": "v3.0.2"
+  "owner": "peter-evans",
+  "repo": "close-issue",
+  "version": "",
+  "url": "https://github.com/peter-evans/close-issue"
 }
