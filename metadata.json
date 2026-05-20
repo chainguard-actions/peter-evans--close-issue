@@ -1,7 +1,0 @@
-{
-  "owner": "peter-evans",
-  "name": "close-issue",
-  "visibility": "public",
-  "description": "A GitHub action to close an issue",
-  "block_publish": false
-}
